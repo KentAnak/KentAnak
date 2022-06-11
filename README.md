@@ -1,5 +1,5 @@
 ### 👋 Hi, there
-- :telescope: I'm studying at an university, out of work.
+- :telescope: I'm studying at a university, out of work.
 - 🌱 I’m currently learning Python
 
 <!---
