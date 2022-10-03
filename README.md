@@ -1,6 +1,6 @@
 ### 👋 Hi, there
 - :telescope: I'm studying at a university, out of work.
-- 🌱 I’m currently learning Python
+- 🌱 I'm looking for a new job.
 
 <!---
 KentAnak/KentAnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
