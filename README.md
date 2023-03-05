@@ -1,6 +1,5 @@
 ### 👋 Hi, there
-- :telescope: I'm studying at a university, out of work.
-- 🌱 I'm looking for a new job.
+- :telescope: I am studying at an online university while working.
 
 <!---
 KentAnak/KentAnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
